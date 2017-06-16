@@ -1,4 +1,3 @@
 # sainag.github.io
-My Portfolio
-
-*********************Working on it*********************
+*********************Working on My Portfolio*********************
+**************For now - cloned My Dictionary into this repo for usage**********
