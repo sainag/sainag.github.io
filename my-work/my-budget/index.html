@@ -107,6 +107,7 @@
           if (this.new_expense && this.new_expense_value) {
             let new_spent = parseInt(this.new_expense_value) + this.budget.spendings[this.new_expense].spent;
             Vue.set(this.budget.spendings[this.new_expense], 'spent',new_spent);
+            this.new_expense =''; this.new_expense_value = '';
           }
         }
       }
